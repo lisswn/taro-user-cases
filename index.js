@@ -1333,6 +1333,13 @@ const userCases = {
       framework: "react",
       taroVersion: "3.3.2",
       screenshot: []
+    },
+    {
+      name: "猪八戒网+",
+      url: "https://user-images.githubusercontent.com/29394933/160967154-0fa29821-2218-4311-b981-6ee7cfe1f35a.png",
+      framework: "react",
+      taroVersion: "1.3.18",
+      screenshot: []
     }
   ],
   H5: [
